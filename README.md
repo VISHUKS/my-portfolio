@@ -76,36 +76,6 @@ The portfolio includes 14 video projects showcasing different creative styles an
 
 ---
 
-## Technology Stack
-
-| Technology | Purpose |
-|---|---|
-| HTML5 | Semantic structure and content |
-| CSS3 | Visual design, animations and responsive layouts |
-| Vanilla JavaScript | Interactive functionality and video controls |
-| YouTube Embed API | Dynamic video playback |
-| GitHub Pages | Free static website hosting |
-
----
-
-## Project Structure
-
-```text
-d:/Pankaj_Portfolio/
-├── index.html
-├── css/
-│   └── style.css
-├── js/
-│   └── main.js
-├── assets/
-│   ├── images/
-│   ├── icons/
-│   └── fonts/
-└── README.md
-```
-
----
-
 ## Run Locally
 
 Open `index.html` directly in any modern browser.
