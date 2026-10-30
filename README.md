@@ -4,8 +4,6 @@ An immersive, cinematic portfolio showcasing the intersection of **Artificial In
 
 Created for **Pankaj Kumar Singh**, an AI Motion Graphics Designer and Video Editor passionate about transforming creative ideas into visually engaging digital experiences.
 
-Built using **HTML5, CSS3, and Vanilla JavaScript** — lightweight, responsive, and completely frontend-based.
-
 ---
 
 ## Creative Direction & Visual Experience
